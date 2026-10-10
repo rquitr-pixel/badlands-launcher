@@ -1,0 +1,17 @@
+{
+  "_info": "Zdalna konfiguracja launchera Konflikt: Badlands. Launcher czyta ten plik przy starcie. Zmień server.ip (i ewentualnie porty) oraz workshopId modów Szterben, zapisz (Commit) – gracze dostaną zmianę przy następnym uruchomieniu launchera (do kilku minut opóźnienia cache GitHuba). Dopóki ip zawiera WPISZ, launcher pokazuje 'Wkrótce start'.",
+  "server": {
+    "ip": "WPISZ-IP-SERWERA",
+    "port": 2302,
+    "queryPort": 27016,
+    "password": "",
+    "maxPlayers": 60
+  },
+  "szterbenMods": [
+    { "name": "Szterben Quests", "folder": "@SzterbenQuests", "workshopId": "", "description": "Zadania i questy od mieszkańców Czarnorusi." },
+    { "name": "Szterben Character Creation", "folder": "@SzterbenCharacterCreation", "workshopId": "", "description": "Tworzenie postaci: imię, nazwisko, wygląd, zestaw i miejsce startu." },
+    { "name": "Szterben Admin", "folder": "@SzterbenAdmin", "workshopId": "", "description": "Narzędzia administracji serwera (dla graczy niewidoczne)." },
+    { "name": "Szterben Tablet", "folder": "@SzterbenTablet", "workshopId": "", "description": "Tablet ocalałego: informacje, zadania i komunikaty." },
+    { "name": "Szterben Loading", "folder": "@SzterbenLoading", "workshopId": "", "description": "Ekrany ładowania Konflikt: Badlands." }
+  ]
+}
