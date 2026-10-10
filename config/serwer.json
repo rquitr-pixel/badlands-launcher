@@ -13,6 +13,7 @@
     { "name": "Szterben Admin", "folder": "@SzterbenAdmin", "workshopId": "", "description": "Narzędzia administracji serwera (dla graczy niewidoczne)." },
     { "name": "Szterben Tablet", "folder": "@SzterbenTablet", "workshopId": "", "description": "Tablet ocalałego: informacje, zadania i komunikaty." },
     { "name": "Szterben Loading", "folder": "@SzterbenLoading", "workshopId": "", "description": "Ekrany ładowania Konflikt: Badlands." },
-    { "name": "Szterben Rest", "folder": "@SzterbenRest", "workshopId": "", "description": "Siadanie na krzesłach, ławkach, kanapach i fotelach oraz leżenie na łóżkach (interakcja F)." }
+    { "name": "Szterben Rest", "folder": "@SzterbenRest", "workshopId": "", "description": "Siadanie na krzesłach, ławkach, kanapach i fotelach oraz leżenie na łóżkach (interakcja F)." },
+    { "name": "Szterben Walkers", "folder": "@SzterbenWalkers", "workshopId": "", "description": "Zmarli wracają jako zarażeni w swoim ekwipunku (nic nie ginie); autowstrzykiwacz z wirusem i antidotum." }
   ]
 }
