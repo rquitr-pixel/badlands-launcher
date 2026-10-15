@@ -8,12 +8,13 @@
     "maxPlayers": 60
   },
   "szterbenMods": [
-    { "name": "Szterben Quests", "folder": "@SzterbenQuests", "workshopId": "", "description": "Zadania i questy od mieszkańców Czarnorusi." },
-    { "name": "Szterben Character Creation", "folder": "@SzterbenCharacterCreation", "workshopId": "", "description": "Tworzenie postaci: imię, nazwisko, wygląd, zestaw i miejsce startu." },
-    { "name": "Szterben Admin", "folder": "@SzterbenAdmin", "workshopId": "", "description": "Narzędzia administracji serwera (dla graczy niewidoczne)." },
-    { "name": "Szterben Tablet", "folder": "@SzterbenTablet", "workshopId": "", "description": "Tablet ocalałego: informacje, zadania i komunikaty." },
-    { "name": "Szterben Loading", "folder": "@SzterbenLoading", "workshopId": "", "description": "Ekrany ładowania Konflikt: Badlands." },
-    { "name": "Szterben Rest", "folder": "@SzterbenRest", "workshopId": "", "description": "Siadanie na krzesłach, ławkach, kanapach i fotelach oraz leżenie na łóżkach (interakcja F)." },
-    { "name": "Szterben Walkers", "folder": "@SzterbenWalkers", "workshopId": "", "description": "Zmarli wracają jako zarażeni w swoim ekwipunku (nic nie ginie); autowstrzykiwacz z wirusem i antidotum." }
+    { "name": "Szterben Quests", "folder": "@SzterbenQuests", "workshopId": "3817198899", "description": "Zadania i questy od mieszkańców Czarnorusi." },
+    { "name": "Szterben Character Creation", "folder": "@SzterbenCharacterCreation", "workshopId": "3817196667", "description": "Tworzenie postaci: imię, nazwisko, wygląd, zestaw i miejsce startu." },
+    { "name": "Szterben Skills", "folder": "@SzterbenSkills", "workshopId": "3817202147", "description": "Umiejętności i perki postaci." },
+    { "name": "Szterben Admin", "folder": "@SzterbenAdmin", "workshopId": "3817195327", "description": "Narzędzia administracji serwera (dla graczy niewidoczne)." },
+    { "name": "Szterben Tablet", "folder": "@SzterbenTablet", "workshopId": "3817202872", "description": "Tablet ocalałego: informacje, zadania i komunikaty." },
+    { "name": "Szterben Loading", "folder": "@SzterbenLoading", "workshopId": "3817197606", "description": "Ekrany ładowania Konflikt: Badlands." },
+    { "name": "Szterben Rest", "folder": "@SzterbenRest", "workshopId": "3817200263", "description": "Siadanie na krzesłach, ławkach, kanapach i fotelach oraz leżenie na łóżkach (interakcja F)." },
+    { "name": "Szterben Walkers", "folder": "@SzterbenWalkers", "workshopId": "3817204406", "description": "Zmarli wracają jako zarażeni w swoim ekwipunku (nic nie ginie); autowstrzykiwacz z wirusem i antidotum." }
   ]
 }
