@@ -27,6 +27,12 @@
       "description": "Umiejętności i perki postaci rozwijane w grze."
     },
     {
+      "name": "Szterben Leatherwork",
+      "folder": "@SzterbenLeatherwork",
+      "workshopId": "3820283015",
+      "description": "Pustynny ghillie, pasy na broń i górnictwo."
+    },
+    {
       "name": "Szterben Admin",
       "folder": "@SzterbenAdmin",
       "workshopId": "3817195327",
