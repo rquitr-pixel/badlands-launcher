@@ -1,9 +1,9 @@
 {
   "_info": "Zdalna konfiguracja launchera Konflikt: Badlands. Launcher czyta ten plik przy starcie. Zmień server.ip (i ewentualnie porty) oraz workshopId modów Szterben, zapisz (Commit) – gracze dostaną zmianę przy następnym uruchomieniu launchera (do kilku minut opóźnienia cache GitHuba). Dopóki ip zawiera WPISZ, launcher pokazuje 'Wkrótce start'.",
   "server": {
-    "ip": "WPISZ-IP-SERWERA",
-    "port": 2302,
-    "queryPort": 27016,
+    "ip": "136.243.69.186",
+    "port": 2362,
+    "queryPort": 2363,
     "password": "",
     "maxPlayers": 20
   },
