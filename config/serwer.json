@@ -61,6 +61,18 @@
       "folder": "@SzterbenWalkers",
       "workshopId": "3817204406",
       "description": "Zmarli wracają jako zarażeni w swoim ekwipunku (nic nie ginie); autowstrzykiwacz z wirusem i antidotum."
+    },
+    {
+      "name": "Szterben Shelters",
+      "folder": "@SzterbenShelters",
+      "workshopId": "3820706862",
+      "description": "Podziemny schron z włazem lvl 1–3: rozbudowa, meble i ochrona przed burzą piaskową."
+    },
+    {
+      "name": "Szterben Minigames",
+      "folder": "@SzterbenMinigames",
+      "workshopId": "3820707122",
+      "description": "Minigry w świecie gry."
     }
   ]
 }
