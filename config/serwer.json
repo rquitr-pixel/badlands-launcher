@@ -7,6 +7,93 @@
     "password": "",
     "maxPlayers": 20
   },
+  "mods": [
+    {
+      "id": "1559212036",
+      "name": "Community Framework (CF)",
+      "description": "Biblioteka wymagana przez mody serwera."
+    },
+    {
+      "id": "2545327648",
+      "name": "Dabs Framework",
+      "description": "Biblioteka wymagana przez DayZ Expansion."
+    },
+    {
+      "id": "2291785308",
+      "name": "DayZ-Expansion-Core",
+      "description": "Rdzeń DayZ Expansion."
+    },
+    {
+      "id": "2792982069",
+      "name": "DayZ-Expansion-AI",
+      "description": "Uzbrojone patrole AI i frakcje przeciwników."
+    },
+    {
+      "id": "1828439124",
+      "name": "VPPAdminTools",
+      "description": "Narzędzia administracji (dla graczy niewidoczne)."
+    },
+    {
+      "id": "3649957186",
+      "name": "Terje-Core",
+      "description": "Rdzeń modów Terje – wymagany przez pozostałe."
+    },
+    {
+      "id": "3649959866",
+      "name": "Terje-Compatibility-VPP",
+      "description": "Zgodność modów Terje z VPPAdminTools."
+    },
+    {
+      "id": "3649957536",
+      "name": "Terje-Medicine",
+      "description": "Rozbudowana medycyna: choroby, rany, leki, sen i psychika."
+    },
+    {
+      "id": "3748979670",
+      "name": "Roaster's Wardrobe",
+      "description": "Znoszone ubrania w ziemistych kolorach, chusty shemagh i bandany."
+    },
+    {
+      "id": "1818957231",
+      "name": "[CrSk] VAZ-2107",
+      "description": "Łada 2107 (Żiguli) – rzadka, zwykle do naprawy."
+    },
+    {
+      "id": "1756237462",
+      "name": "[CrSk] GAZ-3309",
+      "description": "Radziecka ciężarówka GAZ-3309 – pojedyncze sztuki."
+    },
+    {
+      "id": "1826872082",
+      "name": "Gerphelius ZIL-130",
+      "description": "Stara ciężarówka ZIL-130 – rarytas."
+    },
+    {
+      "id": "3322252091",
+      "name": "Mounts & Sights",
+      "description": "Nowe celowniki i montaże – bardzo rzadkie."
+    },
+    {
+      "id": "3530015815",
+      "name": "Cookups Expanded Suppressors",
+      "description": "Tłumiki do broni typu M4, AK i pistoletów – pojedyncze sztuki."
+    },
+    {
+      "id": "2141780688",
+      "name": "ArmA 2 ACR Weapon Pack",
+      "description": "Czechosłowacka i czeska broń (Sa vz. 58, CZ 805, CZ 750, Scorpion Evo 3, UK vz. 59) – bardzo rzadka."
+    },
+    {
+      "id": "3431486510",
+      "name": "MVS Redux",
+      "description": "Modułowe kamizelki z ładownicami, hełmy i odzież taktyczna."
+    },
+    {
+      "id": "3210162677",
+      "name": "MMG Base Storage",
+      "description": "Skrzynie, szafki, stojaki na broń i inne pojemniki do bazy."
+    }
+  ],
   "szterbenMods": [
     {
       "name": "Szterben Quests",
