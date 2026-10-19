@@ -160,6 +160,12 @@
       "folder": "@SzterbenMinigames",
       "workshopId": "3820707122",
       "description": "Minigry w świecie gry."
+    },
+    {
+      "name": "Szterben Autorun",
+      "folder": "@SzterbenAutorun",
+      "workshopId": "3823191287",
+      "description": "Autobieg i zatyczki do uszu."
     }
   ]
 }
