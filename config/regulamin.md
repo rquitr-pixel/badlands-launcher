@@ -13,7 +13,7 @@
 2.1. Postać ma realistyczne imię i nazwisko, które wpisujesz w kreatorze postaci (dowód osobisty). Nicki, nazwy z memów i obraźliwe nazwy są zakazane.
 2.2. Grasz swoją postać przez cały czas spędzony na serwerze. Wyjście z roli (OOC) ogranicza się do minimum i do kanałów OOC.
 2.3. Postać boi się o życie. Kiedy ktoś trzyma cię na muszce i ma wyraźną przewagę, reagujesz jak człowiek, nie jak robot (Fear RP).
-2.4. Po śmierci nowa postać nie pamięta okoliczności poprzedniej śmierci (New Life Rule). Przez 30 minut po śmierci nie wracasz w miejsce zgonu, żeby się mścić.
+2.4. Po śmierci nowa postać nie pamięta okoliczności poprzedniej śmierci (New Life Rule). Przez 30 minut po śmierci nie wracasz w miejsce zgonu, żeby się mścić. Wyjątek: jeśli zginiesz we własnej bazie albo w bazie znajomych, powrót do niej nie jest powrotem do własnego ciała i nie obejmuje go 30-minutowy zakaz.
 2.5. Zarażenie wirusem (powrót jako zarażony) i antidotum odgrywasz zgodnie z fabułą. Nie ignorujesz go w RP.
 2.6. Na serwerze działają **profesje** (ścieżki rozwoju z bonusami i rzemiosłem) oraz **umiejętności z perkami (SzterbenSkills)**. Nie wolno ich exploitować, na przykład farmiąc XP na błędach gry.
 2.7. Handlarze, Echo, frakcje AI i fabuła są częścią świata. Nie wolno ich blokować, trollować ani uniemożliwiać innym questowania, na przykład kampiąc przy NPC.
