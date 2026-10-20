@@ -1,0 +1,54 @@
+{
+  "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
+  "updates": [
+    {
+      "date": "17–20.10.2026",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 17–20.10",
+      "intro": "Ocaleni! Ostatnie dni to sporo zmian, które mają sprawić, że Badlands będzie trudniejsze, ale bardziej sprawiedliwe.",
+      "sections": [
+        {
+          "title": "ŚWIAT",
+          "items": [
+            "Wszyscy nowi ocaleni zaczynają teraz w jednym, stałym miejscu.",
+            "Broń palna jest dużo rzadsza. Każdy znaleziony karabin zaczyna mieć wartość.",
+            "Handlarze sprzedają tylko broń cywilną. Wojskowy sprzęt zdobędziecie wyłącznie w terenie.",
+            "Pancerze MVS znajdziecie tylko w strefach KOS i na bazach wojskowych.",
+            "Strefy KOS patrolują oddziały AI, co najmniej 4 boty. Przebieganie przez nie bez konsekwencji się skończyło.",
+            "Noce mijają dwa razy szybciej i dalej są na tyle jasne, że da się walczyć.",
+            "Pora dnia nie cofa się już po restarcie.",
+            "Częściej znajdziecie światła chemiczne i flary."
+          ]
+        },
+        {
+          "title": "ZARAŻENI I CHOROBY",
+          "items": [
+            "Koniec z zabijaniem jednym ciosem. Zarażeni dalej są groźni, ale nie powalą Was z zaskoczenia.",
+            "Leżącego, znokautowanego ocalałego mogą dobić tylko gracze, nie zarażeni.",
+            "Choroby są rzadsze. Przeziębienie złapiecie dopiero po porządnym wychłodzeniu albo przemoczeniu.",
+            "Uwaga na chorobę Z! Nieleczona po półtorej godziny zmienia Was w zarażonego. Antidotum częściej trafia się w szpitalach i na bazach wojskowych."
+          ]
+        },
+        {
+          "title": "UMIEJĘTNOŚCI",
+          "items": [
+            "Pierwszy punkt perku dostajecie już na 1. poziomie, a kolejne przychodzą w równym tempie w każdej umiejętności.",
+            "Na maksymalnym poziomie wymaksujecie całą jedną ścieżkę drzewka. Wybierajcie mądrze!",
+            "Krótsze umiejętności dostały więcej poziomów i szybciej się rozwijają.",
+            "Wykupione perki zostają na stałe, nawet jeśli stracicie poziomy.",
+            "RKO jest dostępne dla każdego od 1. poziomu medycyny.",
+            "Nowy perk **Oszczędny Chirurg** daje 20% szans, że zestaw chirurgiczny się nie zużyje, gdy zszywacie rany innego gracza."
+          ]
+        },
+        {
+          "title": "NOWOŚĆ: AUTO-SPRINT I ZATYCZKI DO USZU",
+          "items": [
+            "**Shift+X** włącza auto-sprint. Wyłączycie go klawiszem **X** albo skokiem.",
+            "**=** zakłada zatyczki do uszu z 4 poziomami wyciszenia. Głosy i radio słychać normalnie.",
+            "Oba klawisze zmienicie w ustawieniach sterowania."
+          ]
+        }
+      ],
+      "outro": "Do zobaczenia w Badlands!"
+    }
+  ]
+}
