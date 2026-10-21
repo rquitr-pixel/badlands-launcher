@@ -44,11 +44,6 @@
       "description": "Zgodność modów Terje z VPPAdminTools."
     },
     {
-      "id": "3649957536",
-      "name": "Terje-Medicine",
-      "description": "Rozbudowana medycyna: choroby, rany, leki, sen i psychika."
-    },
-    {
       "id": "3748979670",
       "name": "Roaster's Wardrobe",
       "description": "Znoszone ubrania w ziemistych kolorach, chusty shemagh i bandany."
@@ -166,6 +161,18 @@
       "folder": "@SzterbenAutorun",
       "workshopId": "3823191287",
       "description": "Autobieg i zatyczki do uszu."
+    },
+    {
+      "name": "Szterben Medicine",
+      "folder": "@SzterbenMedicine",
+      "workshopId": "3824856904",
+      "description": "Medycyna: choroby (Z-47, wścieklizna), urazy, leki, grupy krwi i ikony stanu."
+    },
+    {
+      "name": "Szterben Medicine VPP",
+      "folder": "@SzterbenMedicineVPP",
+      "workshopId": "3824861368",
+      "description": "Integracja Szterben Medicine z VPPAdminTools (wymagana)."
     }
   ]
 }
