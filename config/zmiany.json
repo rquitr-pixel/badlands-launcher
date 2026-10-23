@@ -2,6 +2,22 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-10-23",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 23.10",
+      "intro": "Ocaleni! Kilka drobnych, ale odczuwalnych zmian.",
+      "sections": [
+        {
+          "title": "ZMIANY",
+          "items": [
+            "W pojazdach (poza motocyklami) można korzystać z własnego ekwipunku. Bagażnik pojazdu jest dostępny dopiero po wyjściu.",
+            "Nowa fizyka ciał po śmierci – dotyczy ludzi i NPC.",
+            "Poprawka gardy przy zarażonych: blok nie kończy się już śmiercią od jednego ciosu."
+          ]
+        }
+      ],
+      "outro": "Do zobaczenia na Nasdarze."
+    },
+    {
       "date": "17–20.10.2026",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 17–20.10",
       "intro": "Ocaleni! Ostatnie dni to sporo zmian, które mają sprawić, że Badlands będzie trudniejsze, ale bardziej sprawiedliwe.",

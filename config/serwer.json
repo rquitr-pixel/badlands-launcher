@@ -91,6 +91,18 @@
   ],
   "szterbenMods": [
     {
+      "name": "Szterben Body Physics",
+      "folder": "@SzterbenBodyPhysics",
+      "workshopId": "3825374023",
+      "description": "Fizyka ciał po śmierci (ludzie i NPC)."
+    },
+    {
+      "name": "Szterben DriveBy",
+      "folder": "@SzterbenDriveBy",
+      "workshopId": "3825374105",
+      "description": "Zasady w pojazdach: własny ekwipunek w środku, bagażnik po wyjściu."
+    },
+    {
       "name": "Szterben Quests",
       "folder": "@SzterbenQuests",
       "workshopId": "3817198899",
