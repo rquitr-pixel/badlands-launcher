@@ -173,6 +173,12 @@
       "folder": "@SzterbenMedicineVPP",
       "workshopId": "3824861368",
       "description": "Integracja Szterben Medicine z VPPAdminTools (wymagana)."
+    },
+    {
+      "name": "Szterben Shop",
+      "folder": "@SzterbenShop",
+      "workshopId": "3824847044",
+      "description": "Stragany kupców: kontrakty handlowe i własny sklep z towarem."
     }
   ]
 }
