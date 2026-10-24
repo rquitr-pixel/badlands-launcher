@@ -9,6 +9,7 @@
 1.6. Minimalny wiek to 16 lat. Sprawny mikrofon jest obowiązkowy.
 1.7. Decyzje administracji są wiążące. Odwołania i zgłoszenia składa się ticketem na Discordzie, rzeczowo i z obowiązkowym nagraniem wideo potwierdzającym zdarzenie (zob. pkt 1.8).
 1.8. **Obowiązek nagrywania rozgrywki:** każdy uczestnik rozgrywki jest zobowiązany do rejestrowania swojej gry w formie nagrania wideo. Zgłaszając nieprawidłowość (np. łamanie regulaminu, błąd gry, nadużycie), zgłaszający dołącza nagranie potwierdzające zdarzenie. Brak nagrania może skutkować rozstrzygnięciem sprawy na niekorzyść osoby zgłaszającej.
+1.9. **Nagrywanie akcji agresywnych:** każdy, kto podejmuje jakąkolwiek akcję agresywną (przemoc, napad lub inną formę ataku), ma obowiązek nagrać cały jej przebieg, w tym co najmniej 3 minuty przed jej rozpoczęciem i 3 minuty po jej zakończeniu. Na wezwanie administracji nagranie należy okazać do weryfikacji. Służy ono ocenie poprawności odegrania akcji, czasu na reakcję, jaki atakujący pozostawił osobie atakowanej, oraz prawidłowości przebiegu całej akcji.
 
 ## 2. Roleplay i postać
 2.1. Postać ma realistyczne imię i nazwisko, które wpisujesz w kreatorze postaci (dowód osobisty). Nicki, nazwy z memów i obraźliwe nazwy są zakazane.
