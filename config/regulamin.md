@@ -8,6 +8,7 @@
 1.5. Błąd zauważony w grze zgłaszasz administracji. Wykorzystywanie go jest zabronione.
 1.6. Minimalny wiek to 16 lat. Sprawny mikrofon jest obowiązkowy.
 1.7. Decyzje administracji są wiążące. Odwołania składa się ticketem na Discordzie: spokojnie, z nagraniem, jeśli je masz.
+1.8. **Obowiązek nagrywania rozgrywki:** każdy uczestnik rozgrywki jest zobowiązany do rejestrowania swojej gry w formie nagrania wideo. Zgłaszając nieprawidłowość (np. łamanie regulaminu, błąd gry, nadużycie), zgłaszający dołącza nagranie potwierdzające zdarzenie. Brak nagrania może skutkować rozstrzygnięciem sprawy na niekorzyść osoby zgłaszającej.
 
 ## 2. Roleplay i postać
 2.1. Postać ma realistyczne imię i nazwisko, które wpisujesz w kreatorze postaci (dowód osobisty). Nicki, nazwy z memów i obraźliwe nazwy są zakazane.
