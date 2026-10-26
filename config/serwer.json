@@ -19,16 +19,6 @@
       "description": "Biblioteka wymagana przez DayZ Expansion."
     },
     {
-      "id": "2276010135",
-      "name": "DayZ Editor Loader",
-      "description": "Wczytuje zmiany mapy zrobione w DayZ Editorze (np. komisariat)."
-    },
-    {
-      "id": "2250764298",
-      "name": "DayZ-Editor",
-      "description": "Wymagany przez DayZ Editor Loader."
-    },
-    {
       "id": "3827417304",
       "name": "Szterben Budynki",
       "description": "Przerobione budynki do zmian mapy (komisariat)."
