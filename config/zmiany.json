@@ -2,6 +2,50 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-10-30",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 30.10",
+      "intro": "Ocaleni! Za nami pracowity tydzień na Nasdarze. Oto, co się zmieniło.",
+      "sections": [
+        {
+          "title": "ŚWIAT",
+          "items": [
+            "Na Nasdarze stanął **komisariat**. Warto zajrzeć, zanim zrobi to ktoś inny.",
+            "Zmarli, którzy powstają jako zarażeni, nie zaleją już okolicy. Gdy jest ich za dużo, najstarsi znikają, robiąc miejsce nowym."
+          ]
+        },
+        {
+          "title": "ZARAŻENI I GARDA",
+          "items": [
+            "Dobrze trzymana garda dalej ratuje życie, ale nie czyni nikogo nietykalnym. Zablokowany cios wciąż boli i męczy, tak jak powinien."
+          ]
+        },
+        {
+          "title": "MEDYCYNA",
+          "items": [
+            "Nowe, czytelniejsze ikony stanów: postrzał, noga w szynie, przeziębienie, zatrucie i inne. Od razu widać, co dolega.",
+            "Ikony nie zasłaniają już liczb przy przedmiotach.",
+            "Ze złamaną ręką da się celować, ale postać nie ukryje bólu.",
+            "W masce nic nie zjecie ani nie wypijecie. Najpierw trzeba ją zdjąć."
+          ]
+        },
+        {
+          "title": "HANDLARZE I UMIEJĘTNOŚCI",
+          "items": [
+            "Pierwsze zlecenie u każdego handlarza kończy się nagrodą: **bułatem**. Od tej chwili można go też u niego kupić.",
+            "Echo sprzedaje terminal deszyfrujący zaufanym znajomym, a laptop Orion tylko najbardziej zaufanym.",
+            "Umiejętności rozwijają się równiej, a **łowiectwo** rośnie wyraźnie szybciej."
+          ]
+        },
+        {
+          "title": "REGULAMIN",
+          "items": [
+            "Nagrywajcie swoją rozgrywkę, szczególnie akcje agresywne. Nagranie jest teraz obowiązkowe przy każdym zgłoszeniu. Szczegóły w zakładce Regulamin."
+          ]
+        }
+      ],
+      "outro": "Launcher pobierze wszystko sam. Do zobaczenia na Nasdarze!"
+    },
+    {
       "date": "2026-10-23",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 23.10",
       "intro": "Ocaleni! Kilka drobnych, ale odczuwalnych zmian.",
