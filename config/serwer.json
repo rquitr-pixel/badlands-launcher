@@ -49,6 +49,16 @@
       "description": "Zgodność modów Terje z VPPAdminTools."
     },
     {
+      "id": "3824856904",
+      "name": "Szterben Medicine",
+      "description": "Medycyna: choroby (Z-47, wścieklizna), urazy, leki, grupy krwi i ikony stanu."
+    },
+    {
+      "id": "3824861368",
+      "name": "Szterben Medicine VPP",
+      "description": "Integracja Szterben Medicine z VPPAdminTools (wymagana)."
+    },
+    {
       "id": "3748979670",
       "name": "Roaster's Wardrobe",
       "description": "Znoszone ubrania w ziemistych kolorach, chusty shemagh i bandany."
@@ -92,6 +102,91 @@
       "id": "3210162677",
       "name": "MMG Base Storage",
       "description": "Skrzynie, szafki, stojaki na broń i inne pojemniki do bazy."
+    },
+    {
+      "id": "3825374023",
+      "name": "Szterben Body Physics",
+      "description": "Fizyka ciał po śmierci (ludzie i NPC)."
+    },
+    {
+      "id": "3825374105",
+      "name": "Szterben DriveBy",
+      "description": "Zasady w pojazdach: własny ekwipunek w środku, bagażnik po wyjściu."
+    },
+    {
+      "id": "3817198899",
+      "name": "Szterben Quests",
+      "description": "6 zleceniodawców, 97 zadań w 4 aktach, 5 zakończeń, frakcje AI i lojalność u handlarzy na Nasdarze."
+    },
+    {
+      "id": "3817196667",
+      "name": "Szterben Character Creation",
+      "description": "Kreator postaci: zasady, imię i nazwisko, wygląd, życiorys z dowodem osobistym, cechy, zestaw i miejsce startu."
+    },
+    {
+      "id": "3817202147",
+      "name": "Szterben Skills",
+      "description": "Umiejętności i perki postaci rozwijane w grze."
+    },
+    {
+      "id": "3820283015",
+      "name": "Szterben Leatherwork",
+      "description": "Pustynny ghillie, pasy na broń i górnictwo."
+    },
+    {
+      "id": "3817195327",
+      "name": "Szterben Admin",
+      "description": "Narzędzia administracji serwera (dla graczy niewidoczne)."
+    },
+    {
+      "id": "3817202872",
+      "name": "Szterben Tablet",
+      "description": "Tablet i laptop Orion: mapa ze strefami KOS, plotki, zlecenia i pendrive'y z misjami."
+    },
+    {
+      "id": "3817197606",
+      "name": "Szterben Loading",
+      "description": "Ekrany ładowania Konflikt: Badlands."
+    },
+    {
+      "id": "3817200263",
+      "name": "Szterben Rest",
+      "description": "Siadanie na krzesłach, ławkach, kanapach i fotelach oraz leżenie na łóżkach (interakcja F)."
+    },
+    {
+      "id": "3817204406",
+      "name": "Szterben Walkers",
+      "description": "Zmarli wracają jako zarażeni w swoim ekwipunku (nic nie ginie); autowstrzykiwacz z wirusem i antidotum."
+    },
+    {
+      "id": "3820706862",
+      "name": "Szterben Shelters",
+      "description": "Podziemny schron z włazem lvl 1–3: rozbudowa, meble i ochrona przed burzą piaskową."
+    },
+    {
+      "id": "3820707122",
+      "name": "Szterben Minigames",
+      "description": "Minigry w świecie gry."
+    },
+    {
+      "id": "3823191287",
+      "name": "Szterben Autorun",
+      "description": "Autobieg i zatyczki do uszu."
+    },
+    {
+      "id": "3824847044",
+      "name": "Szterben Shop",
+      "description": "Stragany kupców: kontrakty handlowe i własny sklep z towarem."
+    },
+    {
+      "id": "3830121800",
+      "name": "Szterben Policja",
+      "description": "Policja na Nasdarze: komisariat, wyposażenie i mundury."
+    },
+    {
+      "id": "3830439063",
+      "name": "Szterben Police Job",
+      "description": "Praca w policji: służba, odznaka i klucze."
     }
   ],
   "szterbenMods": [
@@ -196,6 +291,18 @@
       "folder": "@SzterbenShop",
       "workshopId": "3824847044",
       "description": "Stragany kupców: kontrakty handlowe i własny sklep z towarem."
+    },
+    {
+      "name": "Szterben Policja",
+      "folder": "@SzterbenPolicja",
+      "workshopId": "3830121800",
+      "description": "Policja na Nasdarze: komisariat, wyposażenie i mundury."
+    },
+    {
+      "name": "Szterben Police Job",
+      "folder": "@SzterbenPoliceJob",
+      "workshopId": "3830439063",
+      "description": "Praca w policji: służba, odznaka i klucze."
     }
   ]
 }
