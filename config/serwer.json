@@ -187,6 +187,11 @@
       "id": "3830439063",
       "name": "Szterben Police Job",
       "description": "Praca w policji: służba, odznaka i klucze."
+    },
+    {
+      "id": "3830681476",
+      "name": "Szterben Fuel Fix",
+      "description": "Poprawka paliwa i płynów w pojazdach po restarcie."
     }
   ],
   "szterbenMods": [
