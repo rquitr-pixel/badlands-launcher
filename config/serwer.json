@@ -192,6 +192,11 @@
       "id": "3830681476",
       "name": "Szterben Fuel Fix",
       "description": "Poprawka paliwa i płynów w pojazdach po restarcie."
+    },
+    {
+      "id": "3835551717",
+      "name": "SzterbenRPchat",
+      "description": "Przezroczysty czat RP: /opis, /me i /do w zasięgu 15 m oraz nagłówki ekwipunku."
     }
   ],
   "szterbenMods": [
