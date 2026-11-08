@@ -2,6 +2,39 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-08",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 8.11",
+      "intro": "Ocaleni! Dziś na Nasdarze doszły papierowe powiadomienia, zmiany tabletu Orion i cywilne klucze do auta.",
+      "sections": [
+        {
+          "title": "POWIADOMIENIA",
+          "items": [
+            "Administracja, questy, umiejętności, odpoczynek, schrony, praca w policji i tablet pokazują teraz własne, papierowe powiadomienia w **lewym górnym rogu**. Zastępują dotychczasowe komunikaty VPP.",
+            "Powiadomienie o czacie **nie pokazuje treści** wiadomości."
+          ]
+        },
+        {
+          "title": "TABLET ORION",
+          "items": [
+            "Wiadomość prywatna i czat ogólny mają **osobne dźwięki**.",
+            "Prywatna przychodzi jako **Nowa wiadomość prywatna od** imienia gracza. Czat ogólny jako **Nowa wiadomość czatu**. Pozostałe sprawy jako **Nowe powiadomienie, sprawdź w tablecie**.",
+            "To samo powiadomienie nie wyskakuje drugi raz.",
+            "Tablet ma nową ramkę. Obudowa jest bardziej przestrzenna."
+          ]
+        },
+        {
+          "title": "KLUCZE CYWILNE",
+          "items": [
+            "U każdego handlarza jest **para fizycznych kluczy** za łącznie **40 gwoździ**. Oferta jest u wszystkich siedmiu handlarzy od zleceń i na zarejestrowanych straganach. Może z niej skorzystać każdy.",
+            "Po jawnym przypisaniu klucze otwierają tylko **jedno, konkretne auto** i nie dają uprawnień policyjnych.",
+            "Dotychczasowe **klucze policyjne** zostają bez zmian.",
+            "Zapłata zapisuje się przy transakcji, więc ta sama sprzedaż nie rozliczy się drugi raz."
+          ]
+        }
+      ],
+      "outro": "Do zobaczenia na Nasdarze."
+    },
+    {
       "date": "2026-10-30",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 30.10",
       "intro": "Ocaleni! Za nami pracowity tydzień na Nasdarze. Oto, co się zmieniło.",
