@@ -3,6 +3,36 @@
   "updates": [
     {
       "date": "2026-11-11",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 11.11 (CZ. 2)",
+      "intro": "Ocaleni! Druga część dzisiejszej aktualizacji: odświeżony czat RP, poprawki w świecie i pełniejszy regulamin dla nowo przybyłych.",
+      "sections": [
+        {
+          "title": "CZAT RP",
+          "items": [
+            "Okno czatu jest teraz **mniejsze i czytelniejsze**. Każdy wpis ma kolorowy znacznik: **ME**, **DO** albo **OPIS**.",
+            "Podczas pisania widzisz **licznik znaków**, a nad historią liczbę ukrytych starszych wpisów.",
+            "Poprawiony błąd serwera, który mógł zatrzymywać wyświetlanie narracji nad głowami."
+          ]
+        },
+        {
+          "title": "ŚWIAT",
+          "items": [
+            "**Reichsrevolver**: z modelu zniknęła zabłąkana szara płaszczyzna, przez którą podgląd broni był źle kadrowany. Bęben bez zmian.",
+            "**Figi** z drzew nie lądują już pod ziemią. Owoce, które pojawią się pod powierzchnią, wyskakują na wierzch (piwnice i tunele nietknięte)."
+          ]
+        },
+        {
+          "title": "REGULAMIN",
+          "items": [
+            "Regulamin przy tworzeniu postaci został **uzupełniony o wszystkie aktualne zasady**: nagrywanie rozgrywki, pas ostrzegawczy 300 m wokół stref KOS, gaz w pałacu Qalat-e Lut, frakcje do dołączenia i czat RP.",
+            "Nowe postacie zobaczą go przy pierwszym wejściu."
+          ]
+        }
+      ],
+      "outro": "Do zobaczenia na Nasdarze."
+    },
+    {
+      "date": "2026-11-11",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 11.11",
       "intro": "Ocaleni! Na Nasdarze można wreszcie stanąć po czyjejś stronie. Do tego pałac Qalat-e Lut zasnuł gaz, a Lekarka ma w sprzedaży stetoskop.",
       "sections": [
@@ -73,6 +103,35 @@
             "Po jawnym przypisaniu klucze otwierają tylko **jedno, konkretne auto** i nie dają uprawnień policyjnych.",
             "Dotychczasowe **klucze policyjne** zostają bez zmian.",
             "Zapłata zapisuje się przy transakcji, więc ta sama sprzedaż nie rozliczy się drugi raz."
+          ]
+        }
+      ],
+      "outro": "Do zobaczenia na Nasdarze."
+    },
+    {
+      "date": "2026-11-07",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 7.11",
+      "intro": "Ocaleni! Na Nasdarze można wreszcie odgrywać postać nie tylko głosem. Do tego zleceniodawcy przemówili, a medycyna dostała stan krytyczny.",
+      "sections": [
+        {
+          "title": "CZAT RP",
+          "items": [
+            "Nowy czat RP otwierasz klawiszem **Enter**. Narrację widzą tylko osoby w pobliżu (ok. **15 m**), które Cię widzą.",
+            "**/me** opisuje, co robi Twoja postać, np. „Hadir ma posępną minę”. **/do** opisuje otoczenie albo sytuację.",
+            "**/opis** ustawia stały opis wyglądu postaci nad głową. Puste /opis go usuwa; znika też po śmierci i wylogowaniu.",
+            "Narracja pokazuje się nad głową i w lokalnej historii czatu, z imieniem postaci, nigdy z nickiem Steam."
+          ]
+        },
+        {
+          "title": "ZLECENIA",
+          "items": [
+            "Zleceniodawcy **czytają briefingi na głos**. Nagranie startuje po kliknięciu zlecenia i słyszysz je tylko Ty."
+          ]
+        },
+        {
+          "title": "MEDYCYNA",
+          "items": [
+            "Ciężkie, śmiertelne trafienia mogą teraz skończyć się **stanem krytycznym** zamiast natychmiastowej śmierci. Ktoś obok ma chwilę, żeby Cię ratować."
           ]
         }
       ],
