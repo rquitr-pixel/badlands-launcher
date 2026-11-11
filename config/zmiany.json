@@ -2,6 +2,50 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-11",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 11.11",
+      "intro": "Ocaleni! Na Nasdarze można wreszcie stanąć po czyjejś stronie. Do tego pałac Qalat-e Lut zasnuł gaz, a Lekarka ma w sprzedaży stetoskop.",
+      "sections": [
+        {
+          "title": "FRAKCJE – MOŻESZ DOŁĄCZYĆ",
+          "items": [
+            "Do **sześciu frakcji** można dołączyć: **Meridian, Bojówka, Przemytnicy, Szabrownicy, Korpus Stabilizacyjny Nasdary i załoga Sokol-4**.",
+            "Każda ma swojego werbownika. Znajdziesz ich na mapie w tablecie pod pseudonimami: **Hatch, Ołów, Cień, Gruz, Kotwica i Wirnik**. Czekają w zabudowaniach, pod wiatami albo przy wrakach, niedaleko obozów swoich ludzi.",
+            "Werbownik da Ci krótki szlak zleceń w okolicy. Po ich wykonaniu nosisz barwy frakcji.",
+            "Członków swojej frakcji patrole i jej ludzie **nie atakują pierwsi**. Masz też dostęp do sklepu tylko dla swoich.",
+            "Można należeć tylko do **jednej frakcji**. Jako członek możesz zwerbować do **dwóch żołnierzy** swojej frakcji.",
+            "Kto otworzy ogień do swoich, przez **10 minut** jest traktowany jak zdrajca.",
+            "Patrole odzywają się w swoim języku: witają, ostrzegają i krzyczą w walce.",
+            "Przynależność **zostaje po śmierci**. Znika dopiero wtedy, gdy usuniesz postać. Wtedy znika też cały postęp zleceń.",
+            "Do **Czyścicieli** dołączyć się nie da."
+          ]
+        },
+        {
+          "title": "PAŁAC QALAT-E LUT",
+          "items": [
+            "Cała strefa pałacu jest teraz **na stałe skażona gazem**. Bez ochrony nie przeżyjesz tam długo.",
+            "W gazie krążą **dwa patrole Czyścicieli**: jeden w środku pałacu, drugi na zewnątrz.",
+            "Czyściciele są **odporni na gaz**, wszędzie na mapie. Nie licz, że gaz zrobi robotę za Ciebie."
+          ]
+        },
+        {
+          "title": "MEDYCYNA",
+          "items": [
+            "**Lekarka** sprzedaje **stetoskop**. Nosi się go na szyi.",
+            "Stetoskopem możesz **osłuchać** drugą osobę, a gdy masz go na sobie, także siebie. Dokładną diagnozę daje dopiero umiejętność **Diagnosta**."
+          ]
+        },
+        {
+          "title": "SKRYTKI",
+          "items": [
+            "Kopce ze skrytkami leżą teraz równo na ziemi, także na zboczach.",
+            "Skrzynka z nagrodą za zlecenie **znika, gdy ją opróżnisz**."
+          ]
+        }
+      ],
+      "outro": "Wybierz swoją stronę i do zobaczenia na Nasdarze."
+    },
+    {
       "date": "2026-11-08",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 8.11",
       "intro": "Ocaleni! Dziś na Nasdarze doszły papierowe powiadomienia, zmiany tabletu Orion i cywilne klucze do auta.",
