@@ -2,6 +2,60 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-14",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 14.11",
+      "intro": "Ocaleni! Na Nasdarze robi się głodniej i groźniej. Jedzenie trzeba teraz zdobyć, a nie tylko znaleźć, a na pustkowiach coraz częściej spotkacie uzbrojonych ludzi. Poprawiliśmy też patrole i plotki, żeby nie nachodziły na siebie i nie wracały od razu po wybiciu.",
+      "sections": [
+        {
+          "title": "ROZBITE HELIKOPTERY",
+          "items": [
+            "Wrak helikoptera nigdy nie stoi pusty. Przy jednym zastaniesz **8–12 zarażonych**, przy innym **4–7 ludzi z załogi** – i będą to ludzie konkretnej frakcji.",
+            "Na mapie naraz leżą najwyżej **cztery takie wraki**. Kto pierwszy, ten lepszy – ale nie zawsze pierwszy wraca."
+          ]
+        },
+        {
+          "title": "SPOTKANIA NA SZLAKU",
+          "items": [
+            "Poza strefami KOS możesz **niespodziewanie natknąć się na oddział którejś z frakcji**: przy studni, na rozstaju, w wąwozie. Nie każde spotkanie kończy się strzelaniną.",
+            "**32 takie miejsca** są rozłożone po całej mapie, co najmniej **700 m** od siebie i co najmniej **500 m** od stałych patroli.",
+            "Naraz działa najwyżej **10 spotkań**, oddalonych od siebie o co najmniej **1 km**.",
+            "Po wybiciu to miejsce jest zablokowane na **20 minut**. Ten sam oddział wraca potem co najmniej **1,5 km** dalej.",
+            "Oddział pojawia się tylko wtedy, gdy ktoś jest **500–1100 m** od miejsca i teren go zasłania. Znika po **5 minutach**, jeśli w promieniu **1,3 km** nie ma ludzi – pozostali przy życiu zostają policzeni i nie wracają w pełnym składzie."
+          ]
+        },
+        {
+          "title": "PATROLE",
+          "items": [
+            "Każdy patrol odradza się po **20 minutach** i tylko co najmniej **600 m** od ludzi.",
+            "AI nie bierze już na cel dalej niż na **350 m** – koniec z kulami znikąd po wybiciu.",
+            "Usunęliśmy zdublowanych snajperów pod zaporą i na przełęczy oraz podwójny patrol gazowy w Qalat-e Lut. Te miejsca nie są już natłoczone."
+          ]
+        },
+        {
+          "title": "PLOTKI",
+          "items": [
+            "W tablecie krąży **dużo więcej plotek** – od pasterzy, woziwodów, zwiadowców i zakłóconych rozmów radiowych.",
+            "Plotki są świeżo tasowane, więc warto zaglądać częściej. Czasem to jedyne ostrzeżenie, jakie dostaniesz."
+          ]
+        },
+        {
+          "title": "GŁÓD I ŁOWY",
+          "items": [
+            "**Jedzenia w lootcie jest o połowę mniej** – także fig. Puszki i suchary to teraz rzadki skarb.",
+            "Za to **zwierzyny jest kilka razy więcej**. Kozy, muflony, owce i dziki czekają na tych, którzy umieją polować."
+          ]
+        },
+        {
+          "title": "ZLECENIA I POSTĘP",
+          "items": [
+            "Zlecenie przy **odbudowanej studni** pod obozem: szukanej rzeczy szukaj na samym dnie szybu, tuż przy podnóżu drabiny.",
+            "Postęp zleceń, poziom postaci i przynależność do frakcji są teraz **jeszcze lepiej chronione**. Ocalałym, którym coś zniknęło, przywróciliśmy postęp."
+          ]
+        }
+      ],
+      "outro": "Ostrzcie noże i sprawdzajcie tablet. Do zobaczenia na Nasdarze."
+    },
+    {
       "date": "2026-11-11",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 11.11 (CZ. 2)",
       "intro": "Ocaleni! Druga część dzisiejszej aktualizacji: odświeżony czat RP, poprawki w świecie i pełniejszy regulamin dla nowo przybyłych.",
