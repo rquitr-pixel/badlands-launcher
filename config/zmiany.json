@@ -15,6 +15,12 @@
           ]
         },
         {
+          "title": "POPRAWKA 1.2.8",
+          "items": [
+            "Strzałki i licznik newsów przeniesione na dół slajdu, obok kropek – nie zasłaniają już plakietki, daty ani tytułu. Prawa kolumna z serwerem i linkami mieści się także w mniejszym oknie."
+          ]
+        },
+        {
           "title": "BEZ ZMIAN",
           "items": [
             "Mody pobierają się i aktualizują dokładnie tak jak wcześniej – launcher sam dociągnie wszystko, czego wymaga serwer.",
