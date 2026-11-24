@@ -2,6 +2,29 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-24",
+      "title": "KONFLIKT: BADLANDS – NOWY LAUNCHER 1.2.7",
+      "intro": "Ocaleni! Launcher dostał nowy wygląd. Wszystko zostało na swoim miejscu – zakładki, newsy, lista modów i przycisk GRAJ – ale całość jest teraz z przydymionego szkła i porusza się dużo płynniej.",
+      "sections": [
+        {
+          "title": "NOWY WYGLĄD",
+          "items": [
+            "**Szklane panele.** Przez górny pasek, karty po prawej i dolny pasek prześwituje obraz z aktualnego newsa, a kolory zmieniają się razem ze slajdem.",
+            "**Nowy przycisk GRAJ.** Podczas pobierania modów wypełnia się pomarańczową „cieczą”, która pokazuje postęp. Gdy DayZ wystartuje, przycisk zmienia się na zielony **W GRZE**.",
+            "Płynniejsze przejścia między zakładkami i newsami, delikatne światło pod kursorem i łagodne animacje przycisków."
+          ]
+        },
+        {
+          "title": "BEZ ZMIAN",
+          "items": [
+            "Mody pobierają się i aktualizują dokładnie tak jak wcześniej – launcher sam dociągnie wszystko, czego wymaga serwer.",
+            "Nic nie musisz instalować ręcznie: launcher zaktualizuje się sam przy najbliższym uruchomieniu."
+          ]
+        }
+      ],
+      "outro": "Do zobaczenia na Nasdarze – tym razem w nowym wydaniu."
+    },
+    {
       "date": "2026-11-21",
       "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 21.11",
       "intro": "Ocaleni! Ten tydzień był spokojniejszy, ale jedna zmiana jest ważna dla każdego, kto ciągnie zlecenia: śmierć nie zabiera już Waszej historii.",
