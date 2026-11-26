@@ -2,6 +2,45 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-26",
+      "title": "GŁÓD NA PUSTKOWIACH",
+      "intro": "Ocaleni! Nasdara zaciska pasa. Zapasy w ruinach topnieją, a kto chce przetrwać, musi chwycić za broń i ruszyć na łowy.",
+      "sections": [
+        {
+          "title": "GŁÓD",
+          "items": [
+            "W opuszczonych domach, sklepach i magazynach znajdziesz już tylko **połowę** dawnych puszek, sucharów i owoców. Figowce też rodzą skąpiej.",
+            "Prowiant u handlarzy podrożał. Tam jednak, gdzie kupcy przyjmują jedzenie jako zapłatę, wystarczy go teraz mniej – bo jest więcej wart."
+          ]
+        },
+        {
+          "title": "ŁOWY",
+          "items": [
+            "Na pustkowia wróciły stada kóz, owiec, muflonów i dzików – zwierzyny jest **niemal dwa razy więcej**, a stada są liczniejsze i pasą się w nowych dolinach.",
+            "Mirab i bazar skupują świeże mięso, smalec i skóry. Za upolowaną zdobycz dostaniesz ryż, mleko w proszku, zapałki, tuńczyka, a nawet amunicję .308 i nóż myśliwski.",
+            "Kupcy przestali żądać skór zwierząt, których na Nasdarze nikt nie widział – teraz chcą skór dzika, kozy i wilka.",
+            "W myśliwskich kryjówkach znów można trafić na **kuszę**."
+          ]
+        },
+        {
+          "title": "HANDEL",
+          "items": [
+            "Lekarka uporządkowała cennik – ten sam lek w tym samym opakowaniu kosztuje u niej tyle samo, bez względu na to, jak dobrze cię zna.",
+            "Apteczki, autostrzykawki przeciwchemiczne, kroplówki i spirytus nie chodzą już za bezcen.",
+            "Kupcy rzadziej domagają się bekonu – w wielu ofertach chętnie wezmą tuńczyka albo fasolę."
+          ]
+        },
+        {
+          "title": "MARTWI I WROGOWIE",
+          "items": [
+            "Polegli **zawsze** powstają – nic już nie zatrzyma przemiany. Najstarsi z chodzących odchodzą w głąb pustkowi dopiero wtedy, gdy nikt w pobliżu ich nie widzi.",
+            "Wrogowie wskazani w zleceniach przychodzą w pełnej sile – tylu, ilu trzeba, bez względu na to, co jeszcze dzieje się na mapie. Wrak śmigłowca też nie zostaje bez załogi."
+          ]
+        }
+      ],
+      "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
+    },
+    {
       "date": "2026-11-24",
       "title": "KONFLIKT: BADLANDS – NOWY LAUNCHER 1.2.7",
       "intro": "Ocaleni! Launcher dostał nowy wygląd. Wszystko zostało na swoim miejscu – zakładki, newsy, lista modów i przycisk GRAJ – ale całość jest teraz z przydymionego szkła i porusza się dużo płynniej.",
