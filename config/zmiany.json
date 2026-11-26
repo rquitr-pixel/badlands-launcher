@@ -36,6 +36,25 @@
             "Polegli **zawsze** powstają – nic już nie zatrzyma przemiany. Najstarsi z chodzących odchodzą w głąb pustkowi dopiero wtedy, gdy nikt w pobliżu ich nie widzi.",
             "Wrogowie wskazani w zleceniach przychodzą w pełnej sile – tylu, ilu trzeba, bez względu na to, co jeszcze dzieje się na mapie. Wrak śmigłowca też nie zostaje bez załogi."
           ]
+        },
+        {
+          "title": "BROŃ, AI I STREFY GAZOWE",
+          "items": [
+            "Broń zabrana poległym AI: **70%** sztuk jest w stanie Zniszczonym, pozostałe 30% w stanie Uszkodzonym lub Mocno uszkodzonym.",
+            "Odzież, wyposażenie, optyka, tłumiki i magazynki poległych AI mają zawsze stan Uszkodzony lub Mocno uszkodzony – nigdy lepszy niż przed śmiercią. Amunicji i zapasowych magazynków przy AI jest o około **75%** mniej.",
+            "Ekwipunek zarażonych powstałych z postaci prowadzonych przez ludzi pozostaje nienaruszony.",
+            "Broń na mapie: cywilna – w całej Nasdarze; wojskowa – tylko w strefach KOS; najlepsza (m.in. VSS, AS Val, SVD, SCAR-H, CZ 750) – tylko w strefach gazowych.",
+            "Nowe strefy gazowe wewnątrz dużych stref KOS: **OKB-754**, **lotnisko Dashtabad**, **magazyny rakiet Zulfiqar**, **Dar-e Ardis**. Pilnują ich Czyściciele, odporni na gaz; skrytki w strefach gazowych również strzegą Czyściciele.",
+            "Tablet: wszystkie strefy gazowe są zaznaczone na mapie zielonym półprzezroczystym obszarem z markerem."
+          ]
+        },
+        {
+          "title": "HANDEL BRONIĄ",
+          "items": [
+            "Handlarze są głównym źródłem broni palnej. Wymiana barterowa przeliczona według dostępności broni na mapie: lepsza broń wymaga więcej, ale z zapłat zniknęły przedmioty praktycznie nie do zdobycia (noktowizory, kamizelki płytowe, rzadkie celowniki i magazynki itp.).",
+            "Nowe oferty: **SCAR-L** (dwie wersje), **VSS** (dwie wersje) i **AS Val**.",
+            "Handlarze przyjmują w zapłacie tylko przedmioty w stanie **Nowym** lub **Podniszczonym**. Okno handlu informuje, ile pasujących sztuk w gorszym stanie masz przy sobie."
+          ]
         }
       ],
       "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
