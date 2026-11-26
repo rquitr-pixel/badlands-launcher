@@ -56,6 +56,16 @@
             "Nowe oferty: **SCAR-L** (dwie wersje), **VSS** (dwie wersje) i **AS Val**.",
             "Handlarze przyjmują w zapłacie tylko przedmioty w stanie **Nowym** lub **Podniszczonym**. Okno handlu informuje, ile pasujących sztuk w gorszym stanie masz przy sobie."
           ]
+        },
+        {
+          "title": "OKNO ZLECEŃ I TABLET",
+          "items": [
+            "Okno zleceniodawców w nowej odsłonie **„Pustynny szlak”**: ciepłe, piaskowe tła, mosiężne ramki i narożniki w barwach danego zleceniodawcy (Mirab, Konwój, Lekarka, Bazar, Kontraktor, Echo, Urząd – kolory bez zmian), a w tle unosi się piasek.",
+            "Przyjęcie zlecenia: piaskowa kurtyna przemiata panel, pojawia się **„ZLECENIE PRZYJĘTE”**, słychać mosiężny zatrzask.",
+            "Porzucenie zlecenia: piasek zasypuje i wywiewa panel – **„ZLECENIE PORZUCONE”**, piasek zasypał ślad, postęp przepada.",
+            "Oddanie zlecenia: rozbłysk, mosiężna pieczęć **„WYKONANE”**, fontanna piasku i dzwon na wietrze.",
+            "Tablet, pasek zleceniodawców: szersze karty, wszystkie napisy się mieszczą (także „LL KORONA”, „Kontraktor” i ujemna reputacja), lojalność w barwach zleceniodawcy, ujemna reputacja na czerwono."
+          ]
         }
       ],
       "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
