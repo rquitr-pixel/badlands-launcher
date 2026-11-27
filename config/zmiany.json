@@ -2,6 +2,155 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-28",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 28.11",
+      "intro": "Ocaleni! To był pracowity tydzień na Nasdarze. Pustkowia zrobiły się głodniejsze i groźniejsze, ale wreszcie możecie postawić własne mury i zamknąć za sobą drzwi.",
+      "sections": [
+        {
+          "title": "BUDOWA BAZY",
+          "items": [
+            "**Wreszcie możecie budować.** Fundamenty kwadratowe, trójkątne i ośmiokątne, ściany, stropy z włazami, schody, palisady i bramy. Do wyboru drewno, cegła albo blacha.",
+            "Drzwi i bramy zamkniesz na **zamek kodowy** albo na **kłódkę**. Zanim wbijesz pierwszy pal, przeczytaj zasady budowy baz w regulaminie (pkt 8)."
+          ]
+        },
+        {
+          "title": "GŁÓD I ŁOWY",
+          "items": [
+            "W ruinach zostało już tylko **o połowę mniej** jedzenia. Za to na pustkowia wróciły stada kóz, owiec, muflonów i dzików: zwierzyny jest **prawie dwa razy więcej**.",
+            "Mirab i bazar kupują świeże mięso, smalec i skóry. Ceny u lekarki i reszty handlarzy zostały uporządkowane."
+          ]
+        },
+        {
+          "title": "BROŃ I STREFY GAZOWE",
+          "items": [
+            "Broń cywilną znajdziesz w całej Nasdarze, wojskową tylko w strefach KOS. Najlepsza leży wyłącznie w nowych **strefach gazowych**, których pilnują odporni na gaz Czyściciele. Tablet zaznacza je na zielono.",
+            "Broń zabrana poległym AI jest zwykle zniszczona. Głównym źródłem broni są handlarze, którzy biorą w barterze tylko rzeczy w stanie Nowym albo Podniszczonym. Nowe oferty: SCAR-L, VSS i AS Val.",
+            "We wrakach śmigłowców i konwojów nie leży już broń palna. Zostają pasy, kamizelki, hełmy i reszta wyposażenia, a przy każdym znajdziesz jeszcze **3–5 paczek amunicji** różnych kalibrów."
+          ]
+        },
+        {
+          "title": "ZLECENIA",
+          "items": [
+            "Wrogowie, których masz wyeliminować w zleceniu, **naprawdę czekają na miejscu** i przychodzą w pełnej sile. Nie musisz już liczyć na przypadkowe spotkanie.",
+            "Bojownicy z zadania Bazaru nie siedzą już w wiosce Dara-e Nur. Okopali się na zboczu góry na zachód od niej.",
+            "Okno zleceń ma nową odsłonę **„Pustynny szlak”**: piasek, mosiądz, pieczęcie i dźwięki przy przyjęciu, porzuceniu i oddaniu zlecenia. Pasek zleceniodawców w tablecie mieści już wszystkie napisy.",
+            "**Konwój widmo**: ładunek leży w nowym, pewnym miejscu przy autostradzie M12. **Wyrok V**: wystarczy strzał z ponad 150 m."
+          ]
+        },
+        {
+          "title": "POSTAĆ",
+          "items": [
+            "**Rzemiosło** rozwija się teraz dwa razy wolniej. Mistrzem nie zostaje się w jeden wieczór. To, co już umiesz, zostaje z tobą.",
+            "Polegli zawsze powstają jako zarażeni, więc nie zostawiaj swoich ciał bez opieki."
+          ]
+        },
+        {
+          "title": "PRZY WEJŚCIU NA SERWER",
+          "items": [
+            "Trzy nowe ekrany wczytywania: **Burza**, **Kino** i **Szlak**. Zmieniają się po kolei przy każdym wejściu.",
+            "Launcher dostał w tym tygodniu nowy, szklany wygląd. Zaktualizuje się sam, nic nie musisz robić."
+          ]
+        }
+      ],
+      "outro": "Polujcie mądrze, budujcie solidnie i nie ufajcie nikomu przy studni. Do zobaczenia na Nasdarze!"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "GŁÓD NA PUSTKOWIACH",
+      "intro": "Ocaleni! Nasdara zaciska pasa. Zapasy w ruinach topnieją, a kto chce przetrwać, musi chwycić za broń i ruszyć na łowy.",
+      "sections": [
+        {
+          "title": "GŁÓD",
+          "items": [
+            "W opuszczonych domach, sklepach i magazynach znajdziesz już tylko **połowę** dawnych puszek, sucharów i owoców. Figowce też rodzą skąpiej.",
+            "Prowiant u handlarzy podrożał. Tam jednak, gdzie kupcy przyjmują jedzenie jako zapłatę, wystarczy go teraz mniej – bo jest więcej wart."
+          ]
+        },
+        {
+          "title": "ŁOWY",
+          "items": [
+            "Na pustkowia wróciły stada kóz, owiec, muflonów i dzików – zwierzyny jest **niemal dwa razy więcej**, a stada są liczniejsze i pasą się w nowych dolinach.",
+            "Mirab i bazar skupują świeże mięso, smalec i skóry. Za upolowaną zdobycz dostaniesz ryż, mleko w proszku, zapałki, tuńczyka, a nawet amunicję .308 i nóż myśliwski.",
+            "Kupcy przestali żądać skór zwierząt, których na Nasdarze nikt nie widział – teraz chcą skór dzika, kozy i wilka.",
+            "W myśliwskich kryjówkach znów można trafić na **kuszę**."
+          ]
+        },
+        {
+          "title": "HANDEL",
+          "items": [
+            "Lekarka uporządkowała cennik – ten sam lek w tym samym opakowaniu kosztuje u niej tyle samo, bez względu na to, jak dobrze cię zna.",
+            "Apteczki, autostrzykawki przeciwchemiczne, kroplówki i spirytus nie chodzą już za bezcen.",
+            "Kupcy rzadziej domagają się bekonu – w wielu ofertach chętnie wezmą tuńczyka albo fasolę."
+          ]
+        },
+        {
+          "title": "MARTWI I WROGOWIE",
+          "items": [
+            "Polegli **zawsze** powstają – nic już nie zatrzyma przemiany. Najstarsi z chodzących odchodzą w głąb pustkowi dopiero wtedy, gdy nikt w pobliżu ich nie widzi.",
+            "Wrogowie wskazani w zleceniach przychodzą w pełnej sile – tylu, ilu trzeba, bez względu na to, co jeszcze dzieje się na mapie. Wrak śmigłowca też nie zostaje bez załogi."
+          ]
+        },
+        {
+          "title": "BROŃ, AI I STREFY GAZOWE",
+          "items": [
+            "Broń zabrana poległym AI: **70%** sztuk jest w stanie Zniszczonym, pozostałe 30% w stanie Uszkodzonym lub Mocno uszkodzonym.",
+            "Odzież, wyposażenie, optyka, tłumiki i magazynki poległych AI mają zawsze stan Uszkodzony lub Mocno uszkodzony – nigdy lepszy niż przed śmiercią. Amunicji i zapasowych magazynków przy AI jest o około **75%** mniej.",
+            "Ekwipunek zarażonych powstałych z postaci prowadzonych przez ludzi pozostaje nienaruszony.",
+            "Broń na mapie: cywilna – w całej Nasdarze; wojskowa – tylko w strefach KOS; najlepsza (m.in. VSS, AS Val, SVD, SCAR-H, CZ 750) – tylko w strefach gazowych.",
+            "Nowe strefy gazowe wewnątrz dużych stref KOS: **OKB-754**, **lotnisko Dashtabad**, **magazyny rakiet Zulfiqar**, **Dar-e Ardis**. Pilnują ich Czyściciele, odporni na gaz; skrytki w strefach gazowych również strzegą Czyściciele.",
+            "Tablet: wszystkie strefy gazowe są zaznaczone na mapie zielonym półprzezroczystym obszarem z markerem.",
+            "Wraki śmigłowców, konwojów wojskowych, radiowozów i cystern nie mają już **broni palnej**. Przy każdym rozbitym śmigłowcu i konwoju leży za to **3–5 paczek amunicji różnych kalibrów**; dodatki, odzież i reszta wyposażenia zostają jak dawniej."
+          ]
+        },
+        {
+          "title": "HANDEL BRONIĄ",
+          "items": [
+            "Handlarze są głównym źródłem broni palnej. Wymiana barterowa przeliczona według dostępności broni na mapie: lepsza broń wymaga więcej, ale z zapłat zniknęły przedmioty praktycznie nie do zdobycia (noktowizory, kamizelki płytowe, rzadkie celowniki i magazynki itp.).",
+            "Nowe oferty: **SCAR-L** (dwie wersje), **VSS** (dwie wersje) i **AS Val**.",
+            "Handlarze przyjmują w zapłacie tylko przedmioty w stanie **Nowym** lub **Podniszczonym**. Okno handlu informuje, ile pasujących sztuk w gorszym stanie masz przy sobie."
+          ]
+        },
+        {
+          "title": "OKNO ZLECEŃ I TABLET",
+          "items": [
+            "Okno zleceniodawców w nowej odsłonie **„Pustynny szlak”**: ciepłe, piaskowe tła, mosiężne ramki i narożniki w barwach danego zleceniodawcy (Mirab, Konwój, Lekarka, Bazar, Kontraktor, Echo, Urząd – kolory bez zmian), a w tle unosi się piasek.",
+            "Przyjęcie zlecenia: piaskowa kurtyna przemiata panel, pojawia się **„ZLECENIE PRZYJĘTE”**, słychać mosiężny zatrzask.",
+            "Porzucenie zlecenia: piasek zasypuje i wywiewa panel – **„ZLECENIE PORZUCONE”**, piasek zasypał ślad, postęp przepada.",
+            "Oddanie zlecenia: rozbłysk, mosiężna pieczęć **„WYKONANE”**, fontanna piasku i dzwon na wietrze.",
+            "Tablet, pasek zleceniodawców: szersze karty, wszystkie napisy się mieszczą (także „LL KORONA”, „Kontraktor” i ujemna reputacja), lojalność w barwach zleceniodawcy, ujemna reputacja na czerwono."
+          ]
+        },
+        {
+          "title": "ZLECENIA KONWOJU",
+          "items": [
+            "**Konwój widmo**: pojemnik chłodniczy i dokumenty kierowcy leżą teraz w nowym, pewnym miejscu przy autostradzie M12 – tuż obok siebie.",
+            "**Wyrok V: Snajper**: wystarczy strzelać z ponad **150 m** (wcześniej 300 m). Opis zlecenia w oknie zleceń i w tablecie mówi to samo."
+          ]
+        },
+        {
+          "title": "EKRANY WCZYTYWANIA",
+          "items": [
+            "Trzy nowe ekrany wczytywania z Nasdary: **Burza**, **Kino** i **Szlak**. Zmieniają się po kolei przy każdym wejściu na serwer – najpierw pierwszy, potem drugi, potem trzeci i znów od początku.",
+            "Ekran dołączania i kolejki ma ten sam motyw co ekran wczytywania i odlicza sekundy do wejścia. Suwak głośności muzyki i wyciszenie działają jak wcześniej.",
+            "Pasek postępu wypełnia się dalej także wtedy, gdy gra na chwilę przycina podczas wczytywania świata, a licznik procentów rośnie aż do końca."
+          ]
+        },
+        {
+          "title": "MEDYCYNA – LECZENIE PRZEZ ADMINISTRACJĘ",
+          "items": [
+            "Przycisk **Wylecz** w panelu administracji leczy teraz od razu wszystkie stany medyczne: rany (także głębokie i zszyte), kule w ciele, złamania ręki i nogi, zakażenia, choroby (zapalenie płuc, kuru, wścieklizna, zatrucia, wirus Z-47), ból i przedawkowanie. Ikony stanów znikają natychmiast."
+          ]
+        },
+        {
+          "title": "NOWE MODELE PRZEDMIOTÓW",
+          "items": [
+            "**Karta Dostępu Meridian** i **Identyfikator Pracownika zapory** mają nowe, realistyczne modele: prawdziwy rozmiar karty, zdjęcie właściciela, czytelne napisy, chip, pasek magnetyczny i ślady zużycia. Identyfikator wisi na tasiemce z klipsem i nosi ślady nadtopienia."
+          ]
+        }
+      ],
+      "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
+    },
+    {
       "date": "2026-11-24",
       "title": "KONFLIKT: BADLANDS – NOWY LAUNCHER 1.2.7",
       "intro": "Ocaleni! Launcher dostał nowy wygląd. Wszystko zostało na swoim miejscu – zakładki, newsy, lista modów i przycisk GRAJ – ale całość jest teraz z przydymionego szkła i porusza się dużo płynniej.",
