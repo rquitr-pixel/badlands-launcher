@@ -87,6 +87,12 @@
           "items": [
             "Przycisk **Wylecz** w panelu administracji leczy teraz od razu wszystkie stany medyczne: rany (także głębokie i zszyte), kule w ciele, złamania ręki i nogi, zakażenia, choroby (zapalenie płuc, kuru, wścieklizna, zatrucia, wirus Z-47), ból i przedawkowanie. Ikony stanów znikają natychmiast."
           ]
+        },
+        {
+          "title": "NOWE MODELE PRZEDMIOTÓW",
+          "items": [
+            "**Karta Dostępu Meridian** i **Identyfikator Pracownika zapory** mają nowe, realistyczne modele: prawdziwy rozmiar karty, zdjęcie właściciela, czytelne napisy, chip, pasek magnetyczny i ślady zużycia. Identyfikator wisi na tasiemce z klipsem i nosi ślady nadtopienia."
+          ]
         }
       ],
       "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
