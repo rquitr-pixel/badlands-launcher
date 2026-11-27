@@ -73,6 +73,14 @@
             "**Konwój widmo**: pojemnik chłodniczy i dokumenty kierowcy leżą teraz w nowym, pewnym miejscu przy autostradzie M12 – tuż obok siebie.",
             "**Wyrok V: Snajper**: wystarczy strzelać z ponad **150 m** (wcześniej 300 m). Opis zlecenia w oknie zleceń i w tablecie mówi to samo."
           ]
+        },
+        {
+          "title": "EKRANY WCZYTYWANIA",
+          "items": [
+            "Trzy nowe ekrany wczytywania z Nasdary: **Burza**, **Kino** i **Szlak**. Zmieniają się po kolei przy każdym wejściu na serwer – najpierw pierwszy, potem drugi, potem trzeci i znów od początku.",
+            "Ekran dołączania i kolejki ma ten sam motyw co ekran wczytywania i odlicza sekundy do wejścia. Suwak głośności muzyki i wyciszenie działają jak wcześniej.",
+            "Pasek postępu wypełnia się dalej także wtedy, gdy gra na chwilę przycina podczas wczytywania świata, a licznik procentów rośnie aż do końca."
+          ]
         }
       ],
       "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
