@@ -81,6 +81,12 @@
             "Ekran dołączania i kolejki ma ten sam motyw co ekran wczytywania i odlicza sekundy do wejścia. Suwak głośności muzyki i wyciszenie działają jak wcześniej.",
             "Pasek postępu wypełnia się dalej także wtedy, gdy gra na chwilę przycina podczas wczytywania świata, a licznik procentów rośnie aż do końca."
           ]
+        },
+        {
+          "title": "MEDYCYNA – LECZENIE PRZEZ ADMINISTRACJĘ",
+          "items": [
+            "Przycisk **Wylecz** w panelu administracji leczy teraz od razu wszystkie stany medyczne: rany (także głębokie i zszyte), kule w ciele, złamania ręki i nogi, zakażenia, choroby (zapalenie płuc, kuru, wścieklizna, zatrucia, wirus Z-47), ból i przedawkowanie. Ikony stanów znikają natychmiast."
+          ]
         }
       ],
       "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
