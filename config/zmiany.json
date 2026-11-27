@@ -66,6 +66,13 @@
             "Oddanie zlecenia: rozbłysk, mosiężna pieczęć **„WYKONANE”**, fontanna piasku i dzwon na wietrze.",
             "Tablet, pasek zleceniodawców: szersze karty, wszystkie napisy się mieszczą (także „LL KORONA”, „Kontraktor” i ujemna reputacja), lojalność w barwach zleceniodawcy, ujemna reputacja na czerwono."
           ]
+        },
+        {
+          "title": "ZLECENIA KONWOJU",
+          "items": [
+            "**Konwój widmo**: pojemnik chłodniczy i dokumenty kierowcy leżą teraz w nowym, pewnym miejscu przy autostradzie M12 – tuż obok siebie.",
+            "**Wyrok V: Snajper**: wystarczy strzelać z ponad **150 m** (wcześniej 300 m). Opis zlecenia w oknie zleceń i w tablecie mówi to samo."
+          ]
         }
       ],
       "outro": "Polujcie mądrze. Pustkowia nie wybaczają pustego żołądka."
