@@ -2,6 +2,59 @@
   "_info": "Zakładka 'Zmiany' w launcherze. Najnowsza aktualizacja NA GÓRZE listy 'updates'. Nowy patchnote = nowy obiekt na początku listy (date RRRR-MM-DD lub tekst, title, intro, sections[{title, items[]}], outro). **tekst** = pogrubienie. Zmiana tego pliku w repo trafia do graczy bez nowej wersji launchera.",
   "updates": [
     {
+      "date": "2026-11-28",
+      "title": "KONFLIKT: BADLANDS – AKTUALIZACJA 28.11",
+      "intro": "Ocaleni! To był pracowity tydzień na Nasdarze. Pustkowia zrobiły się głodniejsze i groźniejsze, ale wreszcie możecie postawić własne mury i zamknąć za sobą drzwi.",
+      "sections": [
+        {
+          "title": "BUDOWA BAZY",
+          "items": [
+            "**Wreszcie możecie budować.** Fundamenty kwadratowe, trójkątne i ośmiokątne, ściany, stropy z włazami, schody, palisady i bramy. Do wyboru drewno, cegła albo blacha.",
+            "Drzwi i bramy zamkniesz na **zamek kodowy** albo na **kłódkę**. Zanim wbijesz pierwszy pal, przeczytaj zasady budowy baz w regulaminie (pkt 8)."
+          ]
+        },
+        {
+          "title": "GŁÓD I ŁOWY",
+          "items": [
+            "W ruinach zostało już tylko **o połowę mniej** jedzenia. Za to na pustkowia wróciły stada kóz, owiec, muflonów i dzików: zwierzyny jest **prawie dwa razy więcej**.",
+            "Mirab i bazar kupują świeże mięso, smalec i skóry. Ceny u lekarki i reszty handlarzy zostały uporządkowane."
+          ]
+        },
+        {
+          "title": "BROŃ I STREFY GAZOWE",
+          "items": [
+            "Broń cywilną znajdziesz w całej Nasdarze, wojskową tylko w strefach KOS. Najlepsza leży wyłącznie w nowych **strefach gazowych**, których pilnują odporni na gaz Czyściciele. Tablet zaznacza je na zielono.",
+            "Broń zabrana poległym AI jest zwykle zniszczona. Głównym źródłem broni są handlarze, którzy biorą w barterze tylko rzeczy w stanie Nowym albo Podniszczonym. Nowe oferty: SCAR-L, VSS i AS Val.",
+            "We wrakach śmigłowców i konwojów nie leży już broń palna. Zostają pasy, kamizelki, hełmy i reszta wyposażenia, a przy każdym znajdziesz jeszcze **3–5 paczek amunicji** różnych kalibrów."
+          ]
+        },
+        {
+          "title": "ZLECENIA",
+          "items": [
+            "Wrogowie, których masz wyeliminować w zleceniu, **naprawdę czekają na miejscu** i przychodzą w pełnej sile. Nie musisz już liczyć na przypadkowe spotkanie.",
+            "Bojownicy z zadania Bazaru nie siedzą już w wiosce Dara-e Nur. Okopali się na zboczu góry na zachód od niej.",
+            "Okno zleceń ma nową odsłonę **„Pustynny szlak”**: piasek, mosiądz, pieczęcie i dźwięki przy przyjęciu, porzuceniu i oddaniu zlecenia. Pasek zleceniodawców w tablecie mieści już wszystkie napisy.",
+            "**Konwój widmo**: ładunek leży w nowym, pewnym miejscu przy autostradzie M12. **Wyrok V**: wystarczy strzał z ponad 150 m."
+          ]
+        },
+        {
+          "title": "POSTAĆ",
+          "items": [
+            "**Rzemiosło** rozwija się teraz dwa razy wolniej. Mistrzem nie zostaje się w jeden wieczór. To, co już umiesz, zostaje z tobą.",
+            "Polegli zawsze powstają jako zarażeni, więc nie zostawiaj swoich ciał bez opieki."
+          ]
+        },
+        {
+          "title": "PRZY WEJŚCIU NA SERWER",
+          "items": [
+            "Trzy nowe ekrany wczytywania: **Burza**, **Kino** i **Szlak**. Zmieniają się po kolei przy każdym wejściu.",
+            "Launcher dostał w tym tygodniu nowy, szklany wygląd. Zaktualizuje się sam, nic nie musisz robić."
+          ]
+        }
+      ],
+      "outro": "Polujcie mądrze, budujcie solidnie i nie ufajcie nikomu przy studni. Do zobaczenia na Nasdarze!"
+    },
+    {
       "date": "2026-11-26",
       "title": "GŁÓD NA PUSTKOWIACH",
       "intro": "Ocaleni! Nasdara zaciska pasa. Zapasy w ruinach topnieją, a kto chce przetrwać, musi chwycić za broń i ruszyć na łowy.",
